@@ -1,6 +1,6 @@
 # Codifica di Testi
 
-Il progetto contenuto in questo repository è stato realizzato per l'esame di Codifica di Testi del Corso di Laurea Triennale in Informatica Umanistica con il professor Angelo Mario Del Grosso da Angelica Redis e Martina Pascarelli.
+Il progetto di questa repository è realizzato per l'esame di Codifica di Testi del Corso di Laurea Triennale in Informatica Umanistica (UNIPI) con il professor Angelo Mario Del Grosso da Angelica Redis e Martina Pascarelli.
 
 
 ### Comando per la trasformazione 
