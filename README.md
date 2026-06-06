@@ -1,13 +1,13 @@
-#Codifica di Testi
+# Codifica di Testi
 
 Il progetto contenuto in questo repository è stato realizzato per l'esame di Codifica di Testi del Corso di Laurea Triennale in Informatica Umanistica con il professor Angelo Mario Del Grosso da Valentina Cosenza.
 
-##Versioni usate per il progetto
+## Versioni usate per il progetto
 
 Saxon: 12.4 HE
 Xerces: 2.12.2
 
-##Comando per la trasformazione con Saxon HE 12.4
+### Comando per la trasformazione con Saxon HE 12.4
 
 ```
 java -Djdk.xml.entityExpansionLimit=100000 -cp validazione/saxon-he-12.4.jar:validazione/xmlresolver.jar \
@@ -17,7 +17,7 @@ java -Djdk.xml.entityExpansionLimit=100000 -cp validazione/saxon-he-12.4.jar:val
   -o:output.html
 ```
 
-##Comando per la validazione con Xerces 2.12.2
+### Comando per la validazione con Xerces 2.12.2
 
 ```
 java -cp "validazione/xml-apis.jar:validazione/xercesImpl.jar:validazione/xercesSamples.jar" \
